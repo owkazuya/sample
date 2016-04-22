@@ -3,4 +3,4 @@ CSV.foreach("Tokushima Free Wi-Fiスポットテストデータ.csv", { encoding
   p row
 end
 
-p "hello"
+p "hello World"
